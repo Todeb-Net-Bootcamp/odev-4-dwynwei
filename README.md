@@ -8,7 +8,7 @@
 
 This is the **4th Task** of the forth week which is given by **Patika.Dev TÖDEB Bootcamp**
 
-**DataAccessLayer** Construction with EntityFrameWork via Imaginary ***Dummy TODEBDB***
+**DataAccessLayer** Construction with EntityFrameWork and approach of CodeFirst via Imaginary ***Dummy TODEBDB***
 
 [![dwynwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwynwei)](https://github.com/dwynwei/github-readme-stats)
 
