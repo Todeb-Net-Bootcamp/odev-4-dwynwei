@@ -18,8 +18,11 @@ namespace Models.Entities
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; } // Account Id
+        [Required]
         public string Name { get; set; } // Customer Name
+        [Required]
         public string LastName { get; set; } // Customer LastName
+        [Required]
         public string NationIdentity { get; set; } // Turkish Citizen ID
         public DateTime Created { get; set; } // Account Creation Date
         public string Address { get; set; } // Customer Contact Address

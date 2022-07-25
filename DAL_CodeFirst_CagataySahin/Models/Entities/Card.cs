@@ -14,8 +14,11 @@ namespace Models.Entities
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Auto-Increment Annotation of Id
         public int id { get; set; }
         public string CardType { get; set; } // Card Type such as VISA, MasterCard etc.
+        [Required] // Shows That this field is required in database
         public string CardNumber { get; set; } // This is the card number which has 16 digits
+        [Required]
         public DateTime ExpirationDate { get; set; } // This is the expiration date of card
+        [Required]
         public string CVC { get; set; } // This is the CVC number which is continued after 16 digits of Card number
         public int TransactionId { get; set; } // Connection between Card Model and Transaction Model as One to One
         [ForeignKey("TransactionId")]
