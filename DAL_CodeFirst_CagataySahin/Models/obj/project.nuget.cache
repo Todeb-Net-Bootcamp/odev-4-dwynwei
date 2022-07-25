@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j2y99wUNxZpwn9aLu0L0+iASQLwTpWny8mT2KAT3RzgETHfrhxcUTM6VaCGsAhOZ0rYLnTeBu7iHto+gwI5VUw==",
+  "dgSpecHash": "FbcgOGmoFex1U07RL97F+XAnirszxHnFe5yQV5MF10wPaS6qfYcHp9YjngW7y7VVFxFMoolUzNGjrpWTLoO1fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cagat\\source\\repos\\DAL_CodeFirst_CagataySahin\\Models\\Models.csproj",
+  "projectFilePath": "C:\\Users\\cagat\\Source\\Repos\\Todeb-Net-Bootcamp\\odev-4-dwynwei\\DAL_CodeFirst_CagataySahin\\Models\\Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cagat\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\cagat\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

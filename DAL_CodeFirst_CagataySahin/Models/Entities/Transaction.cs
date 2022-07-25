@@ -14,7 +14,6 @@ namespace Models.Entities
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Auto-Increment Annotation
         public int Id { get; set; }
         public decimal Balance { get; set; } //Shows the Account Balance that user belongs in account. 
-        [Required]
         public bool isCreditCard { get; set; } //Debit Card or Credit Card Bool Value
     }
 }
